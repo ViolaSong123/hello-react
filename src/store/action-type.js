@@ -1,0 +1,11 @@
+export const SET_CURSONG = 'setCurSong';
+export const SET_USERINFO = 'setUserInfo';
+export const SET_HISTORY = 'setHistory';
+export const GET_SONGINFO = 'getSongInfo';
+export const SET_LOCK = 'setLock';
+export const SET_LOADING = 'playbarLoading';
+export const SET_SUB_NAV = 'setSubNav';
+export const SET_SEARCH_TAB = 'setSearchTab';
+export const SET_SEARCH_PAGE = 'setSearchPage';
+export const SET_SHOWLRC = 'setShowLrc';
+export const SET_SHOW_PLAYBAR = 'setShowPlaybar';
